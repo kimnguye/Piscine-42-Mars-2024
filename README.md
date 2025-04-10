@@ -6,3 +6,5 @@ https://yard.onl/sitelycee/cours/c/Lesinclude.html
 
 Comprendre l'utilite des garde-fous dans les fichiers .h :
 https://openclassrooms.com/forum/sujet/fichier-h-et-fichier-c
+
+- Go check my C05/ex08 ! I am prouf of it ;-)
